@@ -3,6 +3,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<meta property="og:title" content="Vide's hemsida" />
+  <meta property="og:type" content="en blog" />
+  <meta property="og:url" content="localhost:4000" />
+  <meta property="og:image" content="http://i65.tinypic.com/98c221.jpg" />
+  <meta property="facebook:Card" content="enbild" />
+
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 

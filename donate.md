@@ -1,6 +1,6 @@
 ---
 layout: "page"
-title: "donate"
+title: "Donate"
 ---
 
 hej hej ge mig nu!!

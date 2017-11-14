@@ -31,7 +31,7 @@ plugins:
 
 defaults:
   - scope:
-      path: "/includes/bild.jpeg"
+      path: "layouts/img"
     values:
       image: true
 
