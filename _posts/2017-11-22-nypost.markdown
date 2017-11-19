@@ -5,5 +5,4 @@ date:   2017-11-08 10:59:48 -0600
 categories: jekyll update
 ---
 
-
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hur kan det vara dag nummer tre ifall alla posts har samma datum? Helt ärligt skrevs inte informationen i alla posts samma dag och den här ligger mest kvar för att den förmodligen kommer användas i framtiden. Den här texten är med andra ord bara en filler eftersom den kommer bli utbytt så fort jag har något bättre att prata om. Tack för att ni läste.

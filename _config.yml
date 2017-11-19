@@ -19,9 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Detta är en hemsida där ni kan hitta information om mig och svar som min lärare efterfrågar.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Använder egentligen inte detta
-github_username:  Dreadmat
-facebook_username: hemlis
+twitter_username: Använder egentligen inte Twitter
+github_username:  Dreadmeat
 
 # Build settings
 markdown: kramdown
@@ -29,11 +28,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-defaults:
-  - scope:
-      path: "layouts/img"
-    values:
-      image: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

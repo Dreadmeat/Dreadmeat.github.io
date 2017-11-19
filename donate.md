@@ -3,4 +3,4 @@ layout: "page"
 title: "Donate"
 ---
 
-hej hej ge mig nu!!
+Donationer behövs aldrig men är uppskattat. De kommer användas till att utveckla min pasta diet till nya dimensioner. 
